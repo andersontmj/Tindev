@@ -1,5 +1,5 @@
 # Tindev :fire:
-###### Tecnologias utilizadas:
+###### Technologies used:
 * Backend:
 __Node.js__
 * Frontend:
