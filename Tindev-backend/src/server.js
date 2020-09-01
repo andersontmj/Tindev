@@ -19,7 +19,7 @@ io.on('connection', socket => {
     connectedUsers[user] = socket.id
 })
 
-mongoose.connect('mongodb+srv://USER:PASSWORD@cluster0-ipugg.mongodb.net/omnistack8?retryWrites=true&w=majority', {
+mongoose.connect('mongodb+srv://andersonj:jennifers22@cluster0-ipugg.mongodb.net/test', {
     useNewUrlParser: true
 })
 
